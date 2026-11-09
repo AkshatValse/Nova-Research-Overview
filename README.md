@@ -1,5 +1,10 @@
 # Nova Research
 
+> [!NOTE]
+> **The paper and its code are now public.** The paper is *Inside the Trap: A Renewal Law for Prefix-Cache Collapse in LLM Agent Serving* (Akshat Valse and Ali Jannesari, [arXiv:2611.08902](https://arxiv.org/abs/2611.08902), November 2026). Its code, all real-engine data and every registration are in [surviving-llm-stampede](https://github.com/AkshatValse/surviving-llm-stampede).
+>
+> This overview was written in October 2026, while the project was in progress, and is kept as it was. Its notes that the code, data and results are private and its status line are out of date, and the paper supersedes its early finding.
+
 ### Metastable failures in prefix-cached LLM agent serving
 
 **Akshat Valse**, Iowa State University. Honors undergraduate pursuing concurrent degrees in Statistics, Mathematics, Data Science and Computer Science; expected May 2028.
